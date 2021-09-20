@@ -246,3 +246,20 @@ a{
     left: 500px;
     color: rgb(82, 77, 77);
 }
+
+.girl{
+    position: absolute;
+    top: 1200px;
+}
+
+.girl_h3{
+    position: absolute;
+    top: 1250px;
+
+}
+
+.img_girl{
+    position: absolute;
+    top: 1150px;
+    left: 800px;
+}
