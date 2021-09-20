@@ -227,10 +227,22 @@ a{
     top: 750px;
 }
 
-.talaba_h3_text{
-    
+
+.images_komp{
+    position: absolute;
+    top: 750px;
+    left: 100px;
 }
 
-.talaba_h1{
-    
+.komp{
+    position: absolute;
+    top: 850px;
+    left: 500px;
+}
+
+.komp_h3{
+    position: absolute;
+    top: 900px;
+    left: 500px;
+    color: rgb(82, 77, 77);
 }
