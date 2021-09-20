@@ -263,3 +263,25 @@ a{
     top: 1150px;
     left: 800px;
 }
+
+.images_boy{
+    position: absolute;
+    top: 1500px;
+}
+
+.boy_h1{
+    position: absolute;
+    top: 1600px;
+    left: 400px;
+}
+
+.boy_h3{
+    position: absolute;
+    top: 1650px;
+    left: 400px;
+}
+
+.tupis_h1{
+    position: absolute;
+    top: 1400px;
+}
